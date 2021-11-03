@@ -16,7 +16,7 @@ Fazendo uma analogia com [flashcards](https://en.wikipedia.org/wiki/Flashcard), 
 Um memo é um "desafio" individual de uma [Coleção](#o-que-é-uma-coleção).
 
 Fazendo uma analogia com [flashcards](https://en.wikipedia.org/wiki/Flashcard), é o que consideramos como uma Carta,
-esta na qual pertence à um Deck.
+esta na qual pertence à um Decks.
 
 ## O que é o nível de fixação?
 
